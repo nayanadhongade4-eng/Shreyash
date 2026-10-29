@@ -1,0 +1,6 @@
+{
+  "name": "NoteFlix AI",
+  "description": "The Note-to-Video Engine: Turn notes, PDFs, docs, and handwritten pages into dynamic animated videos with studio audio synthesis and an intuitive timeline editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
